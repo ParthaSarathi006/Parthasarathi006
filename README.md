@@ -1,4 +1,4 @@
-# 👋 Parthasarathi D
+#                                                                                              Parthasarathi D
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 
