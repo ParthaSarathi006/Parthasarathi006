@@ -4,4 +4,4 @@
 🏫 Karpagam College of Engineering  
 📧 sivaparthasarathi2005@gmail.com  
 📱 +91 93632 92001  
-🌐 [LinkedIn](#) | [GitHub](#) | [LeetCode](#)
+🌐 [LinkedIn](#) | [GitHub](#) | [LeetCode](https://leetcode.com/u/partha_717822i137/)
