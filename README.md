@@ -2,6 +2,5 @@
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 🏫 Karpagam College of Engineering  
-📧 sivaparthasarathi2005@gmail.com  
-📱 +91 93632 92001  
-🌐 [LinkedIn](#) | [GitHub](#) | [LeetCode](https://leetcode.com/u/partha_717822i137/)
+
+🌐 [LinkedIn](#)|📧[Gmail](sivaparthasarathi2005@gmail.com) | [LeetCode](https://leetcode.com/u/partha_717822i137/)
