@@ -2,5 +2,5 @@
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 🏫 Karpagam College of Engineering  
-
-🌐 [LinkedIn](#)|📧[Gmail](sivaparthasarathi2005@gmail.com) | [LeetCode](https://leetcode.com/u/partha_717822i137/)
+📧sivaparthasarathi2005@gmail.com
+🌐 [LinkedIn](www.linkedin.com/in/parthasarathi-d)|[LeetCode](https://leetcode.com/u/partha_717822i137/)
