@@ -8,8 +8,3 @@
 
 🌐 [LinkedIn](www.linkedin.com/in/parthasarathi-d)|[LeetCode](https://leetcode.com/u/partha_717822i137/)
 
-
-## 💻 I Code In:
-- Python 🐍  
-- Java ☕  
-- HTML 🌐 
