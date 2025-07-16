@@ -1,4 +1,4 @@
-#<h1 align="center">Parthasarathi D</h1>  
+<h1 align="center" style="font-family:'Times New Roman', Times, serif;">Parthasarathi D</h1>  
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 
